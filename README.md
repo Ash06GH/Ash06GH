@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&section=header&text=Ashini%20Kumarawadu&fontSize=45&fontColor=white&animation=twinkling&gradientBackground=005f73,0a9396,94d2bd&fontAlignY=35" alt="Professional header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Ashini%20Kumarawadu&fontSize=45&fontColor=white&animation=twinkling&gradientBackground=005f73,0a9396,94d2bd&fontAlignY=35" alt="Professional header banner" />
 </p>
 
 <h2 align="center">Hello! 👋 I'm Ashini Kumarawadu</h2>
